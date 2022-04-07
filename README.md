@@ -66,3 +66,6 @@ sns.heatmap(df.corr(),annot=True)
 ![output](scr7.png)
 ![output](scr8.png)
 ![output](scr9.png)
+
+# Result:
+Thus the data of the dataset is analyzed using Exploratory data analysis.
